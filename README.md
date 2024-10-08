@@ -21,7 +21,6 @@ Working:
 Note: Both Frontend And Backend run Simultaneously in vscode.
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 ![quizManualPage](https://github.com/user-attachments/assets/c78a65dd-1431-4ffb-9c9b-8241ba9d206c)
-![loginPage](https://gith![userQuizSubmitted](https://github.com/user-attachments/assets/3bedd3fa-ac83-495f-98e1-a122896a96b2)
 ![userReportCard](https://github.com/user-attachments/assets/152851b3-55a3-4cd8-bd5b-5bcf3ae47e4e)
 
 
